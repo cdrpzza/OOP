@@ -1,1 +1,17 @@
+1. Which Module 2 topic was easiest for you, and why?
 
+62. Which Java operator was most difficult to understand?
+
+None were difficult to understand since they are just basic arithmetic operators and are very straightforward with their symbols.
+
+63. What common Scanner input mistake did you encounter while working on the exercises?
+
+I sometimes forget the syntax and the name of the scanner, I always put scanner.nextDouble() instead of the sc.nextDouble(), which is the variable I used. 
+
+64. How did the provided test cases help you debug your programs?
+
+Through trial and error, I saw some errors which were very easy to debug since they mostly just involve the formatting of the output. Through the test cases, it helped me to refine my program and not ship immediately.
+
+65. Which exercise would you improve or extend if control structures were already allowed? Explain briefly.
+
+I'd improve the final grade calculator program by implementing a control structure like what grade point the student gets.
